@@ -6,8 +6,3 @@ A simple Base64 encoder/decoder.
 - Encode text to Base64
 - Decode Base64 to text
 
-## Usage
-
-```bash
-encode "hello"
-decode "aGVsbG8="
